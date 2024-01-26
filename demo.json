@@ -1,0 +1,62 @@
+[
+    {
+        "recipients": [{ "id": 1, "phone": "+256779730256", "verified": true }],
+        "sender": {
+            "username": "tawee",
+            "name": "Drake",
+            "email": null,
+            "location": "Waanverse",
+            "api_key": null,
+            "api_token": null,
+            "platform": "D",
+            "payment_plan": "F"
+        },
+        "message": "Call me later",
+        "created_at": "2024-01-26T07:16:26.119159Z",
+        "repeat": "W",
+        "send_at": "07:15:39",
+        "id": 1
+    },
+    {
+        "recipients": [
+            { "id": 1, "phone": "+256779730256", "verified": true },
+            { "id": 2, "phone": "+254779730290", "verified": true }
+        ],
+        "sender": {
+            "username": "tawee",
+            "name": "Drake",
+            "email": null,
+            "location": "Waanverse",
+            "api_key": null,
+            "api_token": null,
+            "platform": "D",
+            "payment_plan": "F"
+        },
+        "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit dolor, dolorem aliquid unde consequuntur doloremque eius quidem id delectus, explicabo temporibus? Fugiat, nostrum, repellat at voluptate similique illo voluptatibus doloremque modi dignissimos corrupti natus deserunt asperiores eum. Sapiente, placeat? Quam blanditiis officia quibusdam atque praesentium numquam consectetur quis consequatur, obcaecati, placeat illo accusamus deleniti inventore vel. Sunt sed nemo suscipit, sapiente ipsam hic nulla a incidunt aspernatur tempore vero iure accusamus excepturi atque, beatae dolorum totam obcaecati velit odio error. Laboriosam ex obcaecati itaque, pariatur, exercitationem fugiat corporis sit aliquid nesciunt dolorem soluta porro quis. Ullam voluptatibus exercitationem pariatur eveniet!",
+        "created_at": "2024-01-26T07:37:55.421028Z",
+        "repeat": "W",
+        "send_at": "07:15:39",
+        "id": 2
+    },
+    {
+        "recipients": [
+            { "id": 1, "phone": "+256779730256", "verified": true },
+            { "id": 2, "phone": "+254779730290", "verified": true }
+        ],
+        "sender": {
+            "username": "another",
+            "name": "Another User",
+            "email": "guest@waanverse.com",
+            "location": "Nigeria",
+            "api_key": "ABcd123456ty",
+            "api_token": "12345678910",
+            "platform": "B",
+            "payment_plan": "B"
+        },
+        "message": "Check out our site 😊😊",
+        "created_at": "2024-01-26T07:40:34.136080Z",
+        "repeat": "D",
+        "send_at": "10:40:27",
+        "id": 3
+    }
+]
